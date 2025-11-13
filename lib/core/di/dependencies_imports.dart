@@ -1,5 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
+import 'package:uuid/uuid.dart';
 
 import '../../features/notification/data/datasources/remote/notification_remote.datasource.dart';
 import '../../features/notification/data/repositories/notification_repository_impl.dart';

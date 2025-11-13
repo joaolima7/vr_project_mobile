@@ -6,4 +6,6 @@ void setupNetworkDependencies(GetIt sl) {
   sl.registerLazySingleton<NetworkClient>(
     () => NetworkClientImpl(dio: sl()),
   );
+
+  sl.registerLazySingleton<Uuid>(() => const Uuid());
 }
