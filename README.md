@@ -97,12 +97,6 @@ lib/
 flutter test
 ```
 
-### Widget Tests
-
-```bash
-flutter test test/widget/
-```
-
 ## Status da Notificação
 
 - **Enfileirado**: Notificação enviada ao backend
