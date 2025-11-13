@@ -4,7 +4,7 @@ Sistema de notificações mobile desenvolvido em Flutter para o teste técnico V
 
 ## Tecnologias
 
-- Flutter 3.x
+- Flutter 3.32.5
 - BLoC Pattern (State Management)
 - GetIt (Dependency Injection)
 - Dio (HTTP Client)
@@ -12,8 +12,7 @@ Sistema de notificações mobile desenvolvido em Flutter para o teste técnico V
 
 ## Pré-requisitos
 
-- Flutter SDK 3.0.0+
-- Dart 3.0.0+
+- Flutter SDK 3.32.5
 - Android Studio / Xcode (para emuladores)
 - Backend rodando (vr_project_back)
 
