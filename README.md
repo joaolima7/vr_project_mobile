@@ -24,7 +24,7 @@ Sistema de notificações mobile desenvolvido em Flutter para o teste técnico V
 flutter pub get
 ```
 
-### 2. Configurar IP do Backend
+### 2. Configurar IP do Backend (IMPORTANTE)
 
 Edite o arquivo `lib/core/network/api_endpoints.dart`:
 
